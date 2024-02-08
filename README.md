@@ -26,6 +26,6 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 | HOMEWORK | NAME | CONTANT | RELATED KNOWLEDGE |
 |--|--|--|--|
 |HW1|Calculator|Vector calculator|Stack and Queue|
-|HW2|Puzzle|Solve a maze|Stack and Queue|
+|HW2|Puzzle|Solve a maze with OpenCV|Stack and Queue|
 |HW3|Binary Tree Traversals|Bulid a binary tree and output node numbers of each node|Tree|
 |HW4|Banker's algorithm|Implement Banker's algorithm|Graph|
