@@ -1,0 +1,4 @@
+Inorder:(EHm)(nN)
+Preorder:(nN)(EHm)
+Inorder:(xb)(vAl)(Jr)
+Preorder:(Jr)(xb)(vAl)

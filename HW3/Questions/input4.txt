@@ -1,0 +1,2 @@
+Inorder:(E08)(P)(E)(BB)(1Vj)(ir)
+Preorder:(P)(E08)(E)(1Vj)(BB)(ir)

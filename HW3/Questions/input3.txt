@@ -1,0 +1,4 @@
+Preorder:(9)(MP)(z)(pxD)(2Q)
+Inorder:(MP)(pxD)(z)(9)(2Q)
+Inorder:(f)(hr)(Xo)(ig)(Ojo)
+Postorder:(f)(Xo)(Ojo)(ig)(hr)

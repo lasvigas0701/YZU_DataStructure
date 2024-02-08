@@ -1,0 +1,4 @@
+Inorder:(5e)(o)(4Y)(u)(7)(H)
+Preorder:(4Y)(o)(5e)(H)(u)(7)
+Inorder:(c)(b)(e)(d)(f)(a)
+Preorder:(a)(b)(c)(d)(e)(f)

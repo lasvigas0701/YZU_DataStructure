@@ -1,0 +1,4 @@
+Inorder:(Qw3)(mZa)
+Postorder:(mZa)(Qw3)
+Inorder:(yI)(2iI)(q9)(BU)
+Preorder:(BU)(2iI)(yI)(q9)
