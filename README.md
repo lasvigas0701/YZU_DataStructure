@@ -21,6 +21,7 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 - Questions: Include question pdf file and some public test cases provided by teacher or TAs.
 - Solutions: My soulution to each questions. Input and output files in this folder are test cases designed by myself (for some bonus in the course).
 - HW2/Solutions/testcase.cpp: This is a cpp code which generate maze as input in Solutions folder.
+- Paiza Bonus: 3 codes that teacher assigned to as with Paiza
 
 ### Homework Table
 | HOMEWORK | NAME | CONTANT | RELATED KNOWLEDGE |
