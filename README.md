@@ -18,7 +18,9 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 
 ### Guidelines:
 - There are 4 folders whose name begin with "HW", each one contains "Questions" and "Solutions" subfolder.
+
   Questions: Include question pdf file and some public test cases provided by teacher or TAs.
+
   Solutions: My soulution to each question. Input and output files in this folder are test cases designed by myself (for some bonus in the course).
 - HW2/Solutions/testcase.cpp: This is a cpp code which generates maze as input in Solutions folder.
 - Paiza Bonus: 3 codes that professor assigned to us from Paiza
