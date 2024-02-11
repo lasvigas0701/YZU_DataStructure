@@ -10,7 +10,7 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 - 簡廷因 / Ting-Ying Chien
 
 ### Time:
-- 2023F(1121), 17:10-18:00 Tue. and 16:00-18:00 Thr.
+- 2023F(1121), 17:10-18:00 Tue. and 16:10-18:00 Thr.
 
 ### Intros:
 - This course introduces some data structures, including stack, queue, linked-list, tree, and graph.
