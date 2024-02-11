@@ -13,8 +13,8 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 - 2023F(1121), 17:10-18:00 Tue. and 16:00-18:00 Thr.
 
 ### Intros:
-- This course introduce some data structures, including stack, queue, linked-list, tree, and graph.
-- It also introduce some basic tools to analyze complexity, such as allocation of memory spaces and Asymptotic Notation.
+- This course introduces some data structures, including stack, queue, linked-list, tree, and graph.
+- It also introduces some basic tools to analyze complexity, such as allocation of memory spaces and Asymptotic Notation.
 
 ### Guidelines:
 - There are 4 folders, each one contains "Questions" and "Solutions" subfolder.
