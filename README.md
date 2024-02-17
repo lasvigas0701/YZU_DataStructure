@@ -6,7 +6,7 @@ Data Structure class in fall semester of sophomore year (2023F/1121)
 ### Course Name:
 - 資料結構 / Data Sturcture
 
-### Professer:
+### Professor:
 - 簡廷因 / Ting-Ying Chien
 
 ### Time:
